@@ -10,6 +10,7 @@ public class OnlineExaminationSystemApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OnlineExaminationSystemApplication.class, args);
+		System.out.println("Welcome to Online Examination System");
 	}
 
 }
